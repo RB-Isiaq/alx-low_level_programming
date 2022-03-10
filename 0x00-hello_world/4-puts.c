@@ -1,9 +1,10 @@
 #include <stdio.h>
-	/**
-	 * main - Entry poin
-	 * description: prints "programming is like buildinv a puzzle"
-	 * Return (0) success
-	 */
+
+/**
+ * main - Entry point
+ * Description: prints "programming is like buildinv a puzzle"
+ * Return: (0) success
+ */
 
 int main(void)
 {
